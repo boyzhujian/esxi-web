@@ -2,7 +2,14 @@
 
 Web admin for VMWare ESXI hypervisor 5
 
-Requires SSH access to be enabled on the host.
+![](screen1.png)
+
+Requires SSH access to be enabled on the host and configured.
+
+## SSH setup
+
+In order to get access to ESXI through SSH you need to authorise your private
+SSH key (ssh-keygen, authorized_keys)
 
 ## Features
 
