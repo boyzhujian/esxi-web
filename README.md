@@ -1,6 +1,8 @@
 ## Description
 
-Web admin for VMWare ESXI hypervisor 5
+Web admin for VMWare ESXi hypervisor 5  (no VCenter or VSphere client is required)
+
+Codename: S ESXi MaN (System for ESXi Monitoring And Notification)
 
 ![](screen1.png)
 
