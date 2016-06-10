@@ -1,0 +1,5 @@
+.status {width:16px;height:16px}
+.status-ok { background-image:url('images/success.png');}
+.status-loading { background-image:url('images/loading.gif');}
+.status-error { background-image:url('images/error.png');}
+.status-warning { background-image:url('images/warning.png');}

@@ -1,0 +1,11 @@
+{  
+  "name": "esxi-web-manager",  
+  "dependencies" : {
+    "express" : "4.1.1",
+    "body-parser" : "1.0.2",
+    "ssh2": "0.3.4"
+  },  
+  "engine": {  
+    "node": ">=0.10.25"  
+  }  
+}

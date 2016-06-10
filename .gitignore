@@ -1,0 +1,14 @@
+*/*.db
+*.class
+*.jar
+*/bin/*
+*/gen/*
+*.directory
+*.orig
+target
+node_modules
+*.log
+*.DS_Store
+*.kate-swp
+config.json
+key
